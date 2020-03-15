@@ -1,0 +1,17 @@
+Observations of Citi Bike Ridership Data from July - December 2019
+
+1) Most riders are subscribers who have purchased an annual pass. 
+Over the last six months of 2019, riders have slowly encompassed more of the total ridership percentage (ie. ~80% to 90%)
+
+2) The vast majority of Citi Bike riders are male. Men encompass 65%+ of total ridership. 
+The gender imbalance is slowly widening from July to December, with more men and fewer women riding towards the end of the year.
+It might be helpful to launch a marketing campaign to target new female ridership.
+
+3) Most riders are young commuters between the ages of 23-40. One notable exception is age 50. 
+50 year olds make up 8.5% of total ridership alone. 
+If Citi Bike can maintain ridership loyalty in 50 year olds, it would be extremely profitable. 
+
+4) One noteable statistic of interest is that the top two start stations are also the top two end stations. 
+Marketing should increase the number of bikes at both of these stations. Broadway & E 22 St. and E 17 & Broadway. 
+
+
